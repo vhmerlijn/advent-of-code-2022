@@ -1,3 +1,3 @@
 # advent-of-code-2022
 
-Advent of Code 2022 solutions (Python)
+[Advent of Code 2022](https://adventofcode.com/2022) solutions (Python)
